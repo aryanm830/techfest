@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Techfest 2026 · Cyborg Renaissance",
     description:
-      "Thirty years of engineering the future. Asia's largest science and technology festival returns to IIT Bombay, Jan 02-05, 2026.",
+      "Thirty years of engineering the future. Asia's largest science and technology festival returns to IIT Bombay, Dec 28, 2026.",
     type: "website",
   },
   twitter: {

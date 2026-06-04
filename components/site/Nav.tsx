@@ -4,8 +4,8 @@ import { motion } from "motion/react";
 import { siteAssets } from "@/components/site/assets";
 
 const links = [
-  { label: "Events", href: "#events" },
-  { label: "Evolution", href: "#evolution" },
+  { label: "Legacy", href: "#legacy" },
+  { label: "Events", href: "#events" },  
   { label: "Experiences", href: "#experiences" },
   { label: "Speakers", href: "#speakers" },
   { label: "Sponsors", href: "#sponsors" },

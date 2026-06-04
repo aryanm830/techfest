@@ -70,7 +70,7 @@ export function Hero() {
                     <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-secondary" />
                   </span>
                   <span className="text-mono text-[10px] uppercase tracking-[0.3em] text-muted-foreground">
-                    30th Edition · Jan 02 — 05, 2026
+                    30th Edition · Dec 28, 2026
                   </span>
                 </div>
 
